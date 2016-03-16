@@ -737,6 +737,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/resources\/resource-loader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/resources\/resource-loader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/resources\/sam.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -820,6 +829,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/min\/main-min.js",
 		"outputAbbreviatedPath": "\/scripts\/min\/min\/main-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/min\/resources-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/min\/resources-min.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/min\/resources-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scripts\/resources.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scripts\/resources.js",
+		"outputAbbreviatedPath": "\/scripts\/min\/resources-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
